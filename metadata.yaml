@@ -1,0 +1,28 @@
+_repo: The-black-ship-with-other-allegories-and-parables_74714
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Charles, Elizabeth Rundle
+    alias: Charles, Elisabeth Rundle
+    birthdate: 1828
+    deathdate: 1896
+    gutenberg_agent_id: '25999'
+    url: http://www.gutenberg.org/2009/agents/25999
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Charles
+description: ''
+gutenberg_issued: '2024-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74714'
+language: en
+pgterms:marc905: 20241024090948charles
+pgterms:marc906: '1861'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bJ. Nisbet & Co., $c1861.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The black ship: with other allegories and parables'
+url: http://www.gutenberg.org/ebooks/74714
