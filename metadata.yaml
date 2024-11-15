@@ -1,5 +1,8 @@
 _repo: The-black-ship-with-other-allegories-and-parables_74714
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Charles, Elizabeth Rundle
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25999
     wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Charles
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74714#The-black-ship-with-other-allegories-and-parables
 gutenberg_issued: '2024-11-10'
 gutenberg_type: Text
 identifiers:
